@@ -23,3 +23,7 @@
 # Скриншот компиляции и запуска
 
 <img width="548" height="308" alt="image" src="https://github.com/user-attachments/assets/390ec24e-ca28-4437-bfa1-e57fa10e62b8" />
+
+<img width="543" height="303" alt="image" src="https://github.com/user-attachments/assets/f90c2a6e-40ad-4636-870e-2a6a6b00f133" />
+
+<img width="539" height="226" alt="image" src="https://github.com/user-attachments/assets/1edb9190-7a94-42da-a829-c80a872d62aa" />
